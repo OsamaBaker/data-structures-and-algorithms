@@ -50,7 +50,6 @@ Write a function called sortNumbers that takes an array of numbers and sorts the
 
 HINT: Beware... JS default is "Lexical" ordering.
 ------------------------------------------------------------------------------------------------ */
-
 const sortNumbers = (arr) => {
   // Solution code here...
   let newArr = arr.sort((a,b) => 
