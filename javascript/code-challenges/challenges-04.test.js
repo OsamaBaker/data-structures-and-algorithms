@@ -50,6 +50,7 @@ Write a function called sortNumbers that takes an array of numbers and sorts the
 
 HINT: Beware... JS default is "Lexical" ordering.
 ------------------------------------------------------------------------------------------------ */
+
 const sortNumbers = (arr) => {
   // Solution code here...
   let newArr = arr.sort((a,b) => 
@@ -68,6 +69,9 @@ HINT: Do it with a custom sort callback, not with using `.reverse()`. ;)
 
 const sortBackwards = (arr) => {
   // Solution code here...
+  let numArray = arr.sort((a, b) => 
+  b-a
+  );   return numArray
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -82,6 +86,7 @@ For example, ['Alphabet', 'Zebra', 'alphabet', 'carrot'] is correctly sorted.
 
 const alphabetize = (arr) => {
   // Solution code here...
+  return arr.sort()
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -99,6 +104,8 @@ Here is an example of the input:
 
 const sortByPrice = (arr) => {
   // Solution code here...
+  let result = arr.sort((a, b) => parseFloat(a.price) - parseFloat(b.price));
+  return result
 };
 
 /* ------------------------------------------------------------------------------------------------
