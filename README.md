@@ -7,3 +7,4 @@
 | Binary Search      | [Binary-Search](401/binary-search)               |
 | Matrix Sum         |   [Matrix-Sum](401/matrix-sum)               |
 | Singly Linked Lists  |   [Linked Lists](401/linked-lists)               |
+| linked-list-insertions|  [linked-list-insertions](401/linked-list-insertions)|
