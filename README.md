@@ -8,3 +8,4 @@
 | Matrix Sum         |   [Matrix-Sum](401/matrix-sum)               |
 | Singly Linked Lists  |   [Linked Lists](401/linked-lists)               |
 | linked-list-insertions|  [linked-list-insertions](401/linked-list-insertions)|
+| linked-list-kth      | [linked-list-kth](401/linked-list-kth) |
