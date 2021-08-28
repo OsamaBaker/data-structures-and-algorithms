@@ -10,3 +10,4 @@
 | linked-list-insertions|  [linked-list-insertions](401/linked-list-insertions)|
 | linked-list-kth      | [linked-list-kth](401/linked-list-kth) |
 | linked-list-zip      | [linked-list-zip](401/linked-list-zip) |
+| stack-and-queue      | [stack-and-queue](401/stack-and-queue) |
