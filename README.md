@@ -13,3 +13,4 @@
 | stack-and-queue      | [stack-and-queue](401/stack-and-queue) |
 | stack-queue-animal-shelter      | [stack-queue-animal-shelter](401/stack-queue-animal-shelter) |
 | stack-queue-brackets      | [stack-queue-brackets](401/stack-queue-brackets) |
+| max-stack      | [max-stack](401/max-stack) |
