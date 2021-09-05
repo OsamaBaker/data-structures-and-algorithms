@@ -15,3 +15,4 @@
 | stack-queue-brackets      | [stack-queue-brackets](401/stack-queue-brackets) |
 | max-stack      | [max-stack](401/max-stack) |
 | trees      | [trees](401/trees) |
+| tree-max      | [tree-max](401/tree-max) |
