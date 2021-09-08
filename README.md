@@ -18,3 +18,4 @@
 | tree-max      | [tree-max](401/tree-max) |
 | tree-breadth-first      | [tree-breadth-first](401/tree-breadth-first) |
 | fizz-buzz-tree      | [fizz-buzz-tree](401/fizz-buzz-tree) |
+| sumOdd      | [sumOdd](401/sumOdd) |
