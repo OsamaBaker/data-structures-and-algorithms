@@ -21,3 +21,4 @@
 | sumOdd      | [sumOdd](401/sumOdd) |
 | merge-sort      | [sumOdd](401/merge-sort) |
 | hashtable      | [sumOdd](401/hashtable) |
+| hashmap-repeated-word      | [sumOdd](401/hashmap-repeated-word) |
